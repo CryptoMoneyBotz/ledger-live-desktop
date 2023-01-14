@@ -42,7 +42,7 @@
     "@ledgerhq/errors": "^5.34.0",
     "@ledgerhq/hw-transport": "^5.34.0",
     "@ledgerhq/hw-transport-http": "^5.34.0",
-    "@ledgerhq/hw-transport-node-hid-singleton": "^5.34.0",
+    "@ledgerhq/hw-transport-node-hid-singleton": "^6.28.7",
     "@ledgerhq/ledger-core": "6.9.1",
     "@ledgerhq/live-common": "^17.4.2",
     "@ledgerhq/logs": "^5.30.0",
